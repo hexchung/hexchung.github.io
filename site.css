@@ -1,8 +1,16 @@
 @font-face {
 	font-family: 'Briar Display';
-  src: url('../hexchung.github.io/assets/fonts/Briar-Display.woff2') format('woff2');
+  src: url('/assets/fonts/Briar-Display.woff2') format('woff2');
 }
 
 h1 {
   font-family: 'Briar Display';
+}
+
+.hannah-chung {
+  padding: 30px;
+  width: 50%;
+  font-size: 120px;
+  color: #ff8300;
+  margin: 0px;
 }
