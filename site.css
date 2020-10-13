@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Briar Display'
+  src: url('/assets/fonts/Briar-Display.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Briar Display';
+}
