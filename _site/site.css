@@ -3,6 +3,10 @@
   src: url('/assets/fonts/Briar-Display.woff2') format('woff2');
 }
 
+html {
+  background-color: #F7F0E8;
+}
+
 h1 {
   font-family: 'Briar Display';
 }
