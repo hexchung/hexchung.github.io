@@ -3,8 +3,9 @@
   src: url('/assets/fonts/Briar-Display.woff2') format('woff2');
 }
 
-html {
+html, body {
   background-color: #F7F0E8;
+  width: 100%;
 }
 
 h1 {
