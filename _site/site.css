@@ -9,13 +9,19 @@ html {
 
 h1 {
   font-family: 'Briar Display';
+  margin: 0px !important;
 }
 
 .hannah-chung {
-  padding: 30px;
-  width: 50%;
-  font-size: 120px;
+  font-size: 50px;
   color: #ff8300;
-  margin: 0px;
+  margin: 15px;
+  width: 50%;
+  overflow-wrap: anywhere;
 }
 
+@media (max-width: 600px) {
+  .hannah-chung {
+    font-size: 35px;
+  }
+}
