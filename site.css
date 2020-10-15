@@ -20,7 +20,7 @@ h1 {
   overflow-wrap: anywhere;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 375px) {
   .hannah-chung {
     font-size: 35px;
   }
